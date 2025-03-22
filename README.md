@@ -15,13 +15,11 @@ Este proyecto es un ejercicio práctico para aprender **Flutter**.
 ## 📌 Objetivo  
 Este proyecto tiene como propósito reforzar el aprendizaje en Flutter mediante la implementación de una calculadora de IMC funcional.  
 
-## 📷 Capturas (Opcional)  
-*(Puedes agregar imágenes de la app aquí si lo deseas)*  
 
 ## 🔧 Instalación  
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/imc_calculadora.git
+   git clone https://github.com/Jonathan03R/Imc_Calculator
    ```
 2. Entra en la carpeta del proyecto:  
    ```bash
